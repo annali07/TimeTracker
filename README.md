@@ -46,3 +46,10 @@ When hovering above the bar, displays deailed breakdown.
 
 ### Functionality
 Displays time spent on each task over one month.
+
+
+---
+
+
+# Build
+I think you'll need to `npm i` and (install rust? not sure if needed) and then `npm run tauri dev` or `npm run tauri build` for release. For more details please refer to https://v2.tauri.app/start/.
