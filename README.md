@@ -1,6 +1,12 @@
 # TimeTracker
 
-A simple app to keep track of time spent on `N` tasks (4 in this app).
+A simple app to keep track of time spent on `N` tasks (4 in this app). 
+
+Developed using **Tauri** framework, using Vue+TypeScript as frontend, rust as backend. 
+
+Entries are recorded in `CSV` files living inside `"path": "$APPDATA/my-app-data*"` (as defined in `src-tauri/capabilities/default.json`)
+
+Currently supports running on MacOS & Windows x86-64.
 
 # Screens
 
