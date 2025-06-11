@@ -53,3 +53,8 @@ Displays time spent on each task over one month.
 
 # Build
 I think you'll need to `npm i` and (install rust? not sure if needed) and then `npm run tauri dev` or `npm run tauri build` for release. For more details please refer to https://v2.tauri.app/start/.
+
+
+---
+#### why does this thing exist?
+Well I actually wrote this entire thing within one afternoon (gpt and I collaborating actually). Initially I just wanted to track how many hours a day/a week/a month am I spending on playing games/reading paper/coding. And I thought an app like this would be convenient. Plus I knew about Tauri for quite some time now and I've always wanted to try it out. Perfect chance. :)
